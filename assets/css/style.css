@@ -5024,3 +5024,10 @@ END TEAM DETAILS DESIGN
 	100% { transform: rotate(360deg); }
   }
 
+  @media (min-width: 992px) {
+    .col-lg-2 {
+        flex: 0 0 auto;
+        width: 19.66666667%;
+    }
+}
+
